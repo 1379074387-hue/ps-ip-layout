@@ -1,0 +1,4 @@
+interface:
+  display_name: "PS高级排版"
+  short_description: "参考模板制作高级 IP 展板，保留可编辑图层、PS 蒙版并完成 A3 交付"
+  default_prompt: "使用 $ps-ip-layout，根据我的素材和参考图制作可编辑的 Photoshop 排版。"
